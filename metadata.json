@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow - Reddit Task Platform",
+  "description": "A minimal, high-utility platform for posting and completing Reddit-specific tasks with a clean black-and-white aesthetic.",
+  "requestFramePermissions": []
+}
